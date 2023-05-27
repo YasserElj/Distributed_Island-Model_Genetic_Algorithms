@@ -1,5 +1,3 @@
-# Distributed_Island-Model_Genetic_Algorithms
-
 
 # DESTRIBUTED IMPLEMENTATION OF GENETIC ALGORITHM USING ISLAND MODEL
 ## Description
@@ -31,7 +29,9 @@ public class GAUtils {
 
 ```
 ## Agents
-![image](https://github.com/YasserElj/Distributed_Island-Model_Genetic_Algorithms/assets/61060853/5aa6cc5d-9b34-4ce1-adc4-0527e9254b82)
+
+![image](https://github.com/YasserElj/Distributed_Island-Model_Genetic_Algorithms/assets/61060853/93b342f3-81fa-4edd-a9d8-51c47fb986ec)
 
 ## Result
-![image](https://github.com/YasserElj/Distributed_Island-Model_Genetic_Algorithms/assets/61060853/93b342f3-81fa-4edd-a9d8-51c47fb986ec)
+
+![image](https://github.com/YasserElj/Distributed_Island-Model_Genetic_Algorithms/assets/61060853/5aa6cc5d-9b34-4ce1-adc4-0527e9254b82)
